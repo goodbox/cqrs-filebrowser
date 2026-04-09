@@ -1,0 +1,8 @@
+﻿src/Application/bin
+src/Application/obj
+src/Domain/bin
+src/Domain/obj
+src/Infrastructure/bin
+src/Infrastructure/obj
+src/Web/bin
+src/Web/obj
